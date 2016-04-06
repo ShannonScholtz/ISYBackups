@@ -1,0 +1,14 @@
+Chapters covered: 
+1. Transaction Management
+2. Distributed Database 
+3. Data Warehouse and Star Schema
+4. GIS data structure
+Q1> Fill in the blanks  
+Q2> Critically comment on a given statment
+Q3> Draw a star Schema
+Q4> Distributed database theory question
+Q5> Transaction Management theory question
+Q6> Draw trees of some given cities.
+Best of luck to all.
+Amlan Mukherjee
+
